@@ -131,4 +131,4 @@ This will push CPU utilization over 80%, triggering the CloudWatch Alarm.
 
 ## 📄 Project Report (PDF)
 
-👉 [Full Project Walkthrough (PDF)](./cloudformation-vpc-ec2-nodejs-cloudwatchalarm.pdf)
+👉 [CloudFormation + VPC + EC2 + NodeJS + CloudWatch Alarm (PDF)](./cloudformation-vpc-ec2-nodejs-cloudwatchalarm.pdf)
